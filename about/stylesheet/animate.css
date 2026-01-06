@@ -1,0 +1,127 @@
+/* контент хэсэг чилглүүлэгч */
+@keyframes wheel-animation 
+{
+50% 
+{
+      stroke-dasharray: 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2;
+      stroke-opacity: 0.5;
+}
+}
+@-moz-keyframes wheel-animation 
+{
+50% 
+{
+      stroke-dasharray: 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2;
+      stroke-opacity: 0.5;
+}      
+}
+@-webkit-keyframes wheel-animation 
+{
+50% 
+{
+      stroke-dasharray: 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2;
+      stroke-opacity: 0.5;
+}         
+}
+@keyframes wheel-circle
+{
+100% 
+{
+      transform: rotate(360deg);
+}
+}
+@-moz-keyframes wheel-circle
+{
+100% 
+{
+      transform: rotate(360deg);
+}      
+}
+@-webkit-keyframes wheel-circle
+{
+100% 
+{
+      transform: rotate(360deg);
+}       
+}
+@keyframes wheel-zooming
+{
+0% 
+{
+      transform: scale(1, 1);
+}
+50% 
+{
+      transform: scale(1.2, 1.2);
+}
+100% 
+{
+      transform: scale(1, 1);
+}
+}
+@-moz-keyframes wheel-zooming
+{
+0% 
+{
+      transform: scale(1, 1);
+}
+50% 
+{
+      transform: scale(1.2, 1.2);
+}
+100% 
+{
+      transform: scale(1, 1);
+}      
+}
+@-webkit-keyframes wheel-zooming
+{
+0% 
+{
+      transform: scale(1, 1);
+}
+50% 
+{
+      transform: scale(1.2, 1.2);
+}
+100% 
+{
+      transform: scale(1, 1);
+}      
+}
+
+
+/* контент хэсэг нугалам */
+@keyframes flex-animation
+{
+0% 
+{
+      transform: translate(-20%, -50%);
+}
+100% 
+{
+      transform: translate(-70%, -50%);
+}
+}
+@-moz-keyframes flex-animation
+{
+0% 
+{
+      transform: translate(-20%, -50%);
+}
+100% 
+{
+      transform: translate(-70%, -50%);
+}     
+}
+@-webkit-keyframes flex-animation
+{
+0% 
+{
+      transform: translate(-20%, -50%);
+}
+100% 
+{
+      transform: translate(-70%, -50%);
+}
+}

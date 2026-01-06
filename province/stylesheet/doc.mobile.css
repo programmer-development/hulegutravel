@@ -1,0 +1,391 @@
+@media screen and (max-width: 1300px) 
+{
+.content-section-article
+{      
+      width: 100%;           
+      margin-top: 50px;        
+}
+.content-section-article
+.article-heading
+.article-span
+{
+      margin: 0px;
+      font-size: 12px;     
+}
+.content-section-article
+.article-heading
+.article-head
+{
+      width: 100%;            
+      font-size: 20px;      
+      margin: 10px auto;     
+}    
+.content-section-map
+.map-a
+{
+      width: 100%;          
+      height: 200px;      
+}
+.content-section-map
+.article-a
+{      
+      float: none;
+      margin: 10px;      
+      margin-left: 100px;
+}
+.content-section-map
+.map-background
+{
+      width: 150px; 
+      height: auto;  
+}
+.content-section-map
+.map-b
+{
+      width: 100%;
+      height: 300px;            
+}
+.content-section-map
+.article-a
+{          
+      margin-top: -30px;      
+}
+.content-section-map
+.article-b
+{      
+      margin: 30px;
+}
+.content-section-map
+.map-heading
+{
+      width: 100%;
+      text-align: justify;
+}
+.content-section-map
+.map-paragraph
+{
+      width: 100%;
+      margin-top: 10px;
+      text-align: justify;
+}
+}
+@media only screen and (device-width: 1366px)
+{
+.content-section-map
+.map-a
+{          
+      height: 650px;      
+}
+.content-section-map
+.map-b
+{               
+      height: 650px;      
+}      
+.content-section-map
+.map-heading
+{
+      width: 80%;      
+}
+.content-section-map
+.map-paragraph
+{
+      width: 80%;      
+      margin-top: 20px;      
+}
+}
+@media only screen and (device-width: 1440px)
+{
+.content-section-map
+.map-heading
+{
+      width: 80%;      
+}
+.content-section-map
+.map-paragraph
+{
+      width: 80%;      
+      margin-top: 20px;      
+}
+}
+
+
+
+@media only screen and (max-width: 1300px) 
+{
+.content-section-path
+{
+      width: 100%;     
+      height: 30px;             
+      margin-top: -100px;      
+      text-align: center;                 
+}
+.content-section-path
+img
+{
+      width: 150px;
+      height: auto;
+}      
+}
+
+
+
+
+@media only screen and (max-width: 1300px) 
+{
+.content-section-time
+{
+      width: 100%;             
+      margin-top: 50px;
+}      
+.content-section-time
+.context-span
+{
+      color: #222;
+      font-size: 11px;                          
+      padding-left: 120px;   
+      letter-spacing: 1px;       
+      text-transform: capitalize;
+}
+.time-box
+.time-upload
+{  
+      height: 400px;
+      padding-bottom: 100.0%;
+
+      transition: all 0.4s cubic-bezier(0.55, 0.085, 0.68, 0.53);
+      -o-transition: all 0.4s cubic-bezier(0.55, 0.085, 0.68, 0.53);
+      -webkit-transition: all 0.4s cubic-bezier(0.55, 0.085, 0.68, 0.53);     
+}
+.slick-dots 
+{
+      text-align: center;
+}
+}
+
+
+
+@media only screen and (max-width: 1300px) 
+{
+.content-section-context   
+{
+      width: 100%;
+      height: 500px;      
+}      
+.content-section-context   
+.section-context-a
+{
+      width: 100%;    
+}
+.content-section-context
+.section-context-a
+.context-a
+{
+      padding: 10px;
+      margin-left: 0%;
+      margin-top: 10px;
+}
+.content-section-context
+.section-context-a
+.context-a
+.context-heading
+{      
+      width: 100%;
+      font-size: 20px;            
+}
+.content-section-context
+.section-context-a
+.context-a
+.context-horizontal
+{
+      width: 100%;      
+}
+.content-section-context
+.section-context-a
+.context-a
+.context-span
+{
+      font-size: 16px;
+}
+.content-section-context
+.section-context-a
+.context-a
+.context-paragraph
+{          
+      font-size: 12px;      
+      margin-top: 10px;      
+}
+.content-section-context
+.section-context-b
+{
+      width: 100%;   
+}
+.content-section-context
+.section-context-b
+.context-b
+{     
+      padding: 10px;
+      margin-top: 10px;
+      margin-left: 0px;
+}
+.content-section-context
+.section-context-b
+.context-heading
+{            
+      font-size: 10px;      
+}
+.content-section-context
+.section-context-b
+.context-paragraph
+{
+      width: 100%;
+      font-size: 11px;            
+}
+.content-sectioncontext
+.section-context-b
+.context-b
+.context-horizontal
+{
+      width: 100%;            
+}
+}
+
+
+
+@media only screen and (max-width: 1300px) 
+{
+.content-section-paragraph
+{
+      width: 100%;
+      height: 300px; 
+      display: block;     
+}    
+.content-section-paragraph
+.section-paragraph
+{
+      width: 100%; 
+      padding: 10px 0px;    
+      line-height: 30px;       
+}
+.content-section-paragraph
+.section-paragraph
+.paragraph-heading
+{
+      font-size: 20px;                
+}
+.content-section-paragraph
+.paragraph-head
+{       
+      font-size: 10px;
+}
+.content-section-paragraph
+.paragraph-paragraph
+{      
+      font-size: 15px;        
+}
+.content-section-paragraph
+.paragraph-horizontal
+{
+      display: 100%;
+}
+.content-section-paragraph
+i
+{
+      margin: 2px;
+      font-size: 15px;    
+}  
+}
+
+
+
+@media only screen and (max-width: 1300px) 
+{
+.content-section-card  
+{
+      width: 100%;
+      height: auto;
+      display: grid;
+      padding-top: 0px;
+}    
+.content-section-card    
+.section-card
+{
+      width: 100%;
+      height: 400px;
+}
+}
+   
+
+
+@media only screen and (min-width: 600px) 
+{
+.content-section-card
+{
+      grid-template-columns: repeat(2, 1fr);
+}
+}
+@media only screen and (min-width: 400px) 
+{
+.content-section-card
+{
+      grid-template-columns: repeat(6, 1fr);
+}
+} 
+@media only screen and (min-width: 600px) 
+{
+.content-section-card    
+.section-card
+{
+      width: 280px;
+      height: 350px;
+}
+}
+@media only screen and (hover: hover) and (min-width: 600px) 
+{
+.section-card:after 
+{
+      transform: translateY(0);
+}
+.card-box
+{
+      transform: translateY(calc(100% - 4.5rem));
+}
+.card-box > *:not(.title) 
+{
+      opacity: 0;
+      transform: translateY(1rem);
+      transition: transform var(--d) var(--e), opacity var(--d) var(--e);
+}
+.section-card:hover,
+.section-card:focus-within 
+{
+      align-items: center;
+}
+.section-card:hover:before,
+.section-card:focus-within:before 
+{
+      transform: translateY(-4%);
+}
+.section-card:hover:after,
+.section-card:focus-within:after 
+{
+      transform: translateY(-50%);
+}
+.section-card:hover .card-box,
+.section-card:focus-within .card-box 
+{
+      transform: translateY(0);
+}
+.section-card:hover .card-box > *:not(.title),
+.section-card:focus-within .card-box > *:not(.title) 
+{
+      opacity: 1;
+      transform: translateY(0);
+      transition-delay: calc(var(--d) / 8);
+}
+.section-card:focus-within:before, .section-card:focus-within:after,
+.section-card:focus-within .card-box,
+.section-card:focus-within .card-box > *:not(.title) 
+{
+      transition-duration: 0s;
+}
+}

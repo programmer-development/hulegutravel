@@ -1,0 +1,9 @@
+.content-section-navigation
+{
+      width: 100%;
+      height: 100vh;          
+      background-size: cover;
+      background-repeat: no-repeat;       
+      background-image: url('assets/img/header-00.jpg');
+      box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.2);
+}    

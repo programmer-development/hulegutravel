@@ -1,0 +1,653 @@
+@media only screen and (max-width: 1024px)
+{
+.content-section-load
+{           
+      width: 100%;
+      height: 100vh;      
+}
+}
+
+
+
+
+@media only screen and (max-width: 1024px) 
+{
+.content-section-circle
+{
+      margin-top: 60px;
+}      
+}
+@media only screen and (device-width: 1366px) 
+{
+.content-section-circle
+{
+      margin-top: -110px;
+}
+}
+@media only screen and (device-width: 1440px) 
+{
+.content-section-circle
+{
+      margin-top: -40px;
+}
+}
+
+
+
+/* контент хэсэг зэрэгцээ */
+@media only screen and (max-width: 1024px) 
+{
+.content-section-parallel
+{
+      width: 100%;            
+}    
+.content-section-parallel
+.section-parallel
+{          
+      max-width: 100%;
+}
+.section-parallel
+.parallel-head
+{      
+      font-size: 30px;     
+}
+.section-parallel
+.parallel-paragraph-a
+{
+      width: 50%; 
+      font-size: 20px;            
+}
+.section-parallel
+.parallel-paragraph-b
+{
+      width: 80%;      
+      font-size: 20px;          
+}
+.section-parallel
+.parallel-paragraph-c
+{
+      width: 50%; 
+      font-size: 20px;            
+}
+.section-parallel :nth-child(1) 
+{      
+      top: 20px;
+      left: 0px;
+      right: 30px;
+      transform: translateZ(-0.4px) scale(1.4);            
+}
+.section-parallel :nth-child(2) 
+{      
+      z-index: 200;
+      top: 300px;
+      right: 10px;
+      transform: translateZ(0.2px) scale(0.8);
+}
+.section-parallel :nth-child(3) 
+{      
+      z-index: 300;
+      top: 600px;
+      left: 50px;
+      transform: translateZ(0.3px) scale(0.7);
+}
+.section-parallel :nth-child(4) 
+{      
+      z-index: 100;
+      top: 400px;
+      left: 20px;      
+      transform: translateZ(0.1px) scale(0.9);
+}
+.section-parallel :nth-child(5) 
+{      
+      z-index: -2000;
+      top: 500px;
+      right: 10px;
+      width: 220px;
+      transform: translateZ(-2px) scale(3);
+}
+.section-parallel :nth-child(6) 
+{      
+      z-index: -2000;
+      top: 1500px;
+      right: 100px;    
+      width: 300px;
+      transform: translateZ(-2px) scale(3);
+}
+.section-parallel 
+.parallel-icon
+{
+      display: none;
+}
+}
+@media only screen and (device-width: 1366px)
+{
+.content-section-parallel
+{
+      width: 100%;
+      height: 100vh;     
+}   
+.content-section-parallel
+.section-parallel
+{          
+      max-width: 80%;
+}
+.section-parallel :nth-child(1) 
+{      
+      top: -100px;
+      left: 400px;                  
+}
+.section-parallel :nth-child(2) 
+{           
+      left: 150px;      
+}
+.section-parallel :nth-child(3) 
+{           
+      left: 700px;           
+}
+.section-parallel :nth-child(4) 
+{          
+      top: 600px;
+      left: 100px;              
+}
+}
+@media only screen and (device-width: 1440px)
+{
+.content-section-parallel
+{
+      width: 100%;
+      height: 100vh;     
+}   
+.content-section-parallel
+.section-parallel
+{          
+      max-width: 80%;
+}
+.section-parallel :nth-child(1) 
+{      
+      top: -100px;
+      left: 500px;                  
+}
+.section-parallel :nth-child(2) 
+{           
+      left: 150px;      
+}
+.section-parallel :nth-child(3) 
+{           
+      left: 750px;           
+}
+}
+
+
+
+/* контент хэсэг дагах */
+@media only screen and (max-width: 1024px) 
+{
+.content-section-tag
+{
+      width: 100%;           
+      height: 800px;
+      background-color: #fff; 
+}    
+.content-section-tag
+.row
+{      
+      height: auto;
+      max-width: 50%;
+}
+.content-section-tag
+.section-tag
+.tag-head
+{       
+      color: #444;
+      font-size: 15px;
+}
+.content-section-tag
+.section-tag
+.tag-span
+{
+      font-size: 10px;
+      letter-spacing: 1px;      
+}
+.content-section-tag
+.section-tag 
+.tag-box
+{          
+      width: 120px;
+      height: 80px;         
+      margin: auto;
+      margin-top: 10px;
+      border-radius: 15px;              
+}
+.content-section-tag
+.section-tag
+.tag-heading
+{          
+      font-size: 12px;        
+      font-weight: 700;
+}
+.content-section-tag
+.section-tag 
+.tag-box
+.tag-background
+{
+      width: 40px;           
+      margin: 0 30px;      
+
+      transition: 0.4s ease-out;
+}
+}
+
+
+
+/* контент хэсэг хөзөр */
+@media only screen and (max-width: 1024px) 
+{
+.card-heading
+{            
+      font-size: 14px;       
+      margin-top: 50px;
+      margin-left: 0px;    
+      padding-left: 125px;      
+}  
+.content-section-card
+{
+      width: 100%;
+      height: 350px;      
+}
+.content-section-card
+.card-timeline 
+{      
+      margin-top: 10px;    
+      margin-left: 10px;           
+}
+.content-section-card
+.card-timeline 
+{          
+      margin-left: 50px;           
+}  
+.content-section-card
+.section-card
+{     
+      max-width: 220px;      
+      margin-right: 40px;      
+}
+.content-section-card
+.section-card
+.image 
+{
+      width: 200px;
+      height: 300px;      
+}
+}
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1910px) and (orientation: landscape) 
+{
+.content-section-card
+{
+      width: 100%;     
+}
+}
+
+
+
+/* контент хэсэг тор */
+@media only screen and (max-width: 1024px) 
+{
+.grid-heading
+{        
+      margin-left: 0;            
+      font-size: 14px;      
+      margin-top: 50px;           
+      text-align: center;
+}      
+.content-section-grid
+{
+      width: 100%;
+      height: auto;
+      display: block;            
+}    
+.content-section-grid
+.grid-head
+{
+      width: 100%; 
+      height: auto;          
+      margin-left: 0;       
+      padding-top: 15px;
+}
+.content-section-grid
+.grid-head
+span
+{
+      color: #bbb;
+      font-size: 10px;
+      text-transform: capitalize;
+}
+.content-section-grid
+.grid-head
+h5 
+{            
+      color: #444;
+      font-size: 14px;                   
+      font-weight: 700;      
+      text-align: center;       
+}
+.content-section-grid
+.grid-head
+p
+{
+      margin: 10px; 
+      font-size: 10px; 
+      padding-top: 14px;      
+      letter-spacing: 1px;
+      text-transform: none;       
+}
+.content-section-grid
+.grid-timeline 
+{      
+      margin-left: 40px;
+}
+.content-section-grid
+.section-grid
+{     
+      width: 100%;   
+      margin: auto;
+      max-width: 100%;                      
+}
+.content-section-grid
+.section-grid
+.image 
+{
+      width: 80%;
+      height: 400px;
+      border-radius: 10px;
+      margin-bottom: 30px;        
+}
+}
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1910px) and (orientation: landscape) 
+{
+.content-section-grid
+{
+      width: 100%;
+      height: 600px;
+}      
+.content-section-grid
+.grid-head
+h5 
+{           
+      width: 100%;
+      font-size: 30px;      
+}
+.content-section-grid
+.grid-timeline 
+{  
+      height: 600px;
+      margin-left: 50px;           
+}
+.content-section-grid
+.section-grid
+{     
+      max-width: 200px;
+      margin-right: 10px;      
+}
+.content-section-grid
+.section-grid
+.image 
+{
+      width: 200px;
+      height: 350px;       
+      margin-bottom: 20px;      
+}
+}
+
+
+
+/* контент хэсэг бөмбөг */
+@media only screen and (max-width: 1024px) 
+{
+.content-section-ball
+.section-ball
+{      
+      width: 100%;
+      height: 200px; 
+}
+.content-section-ball
+.ball-box
+{      
+      width: 100%;
+      height: 200px;  
+}
+.content-section-ball
+.ball-animation
+{          
+      height: 100px;
+}
+.content-section-ball
+.animation-end
+{     
+      width: 50px;
+      height: 50px;      
+}
+.content-section-ball
+.article-box
+h5 
+{          
+      font-size: 10px;      
+}
+.content-section-ball
+.article-box 
+.active
+{            
+      font-size: 11px;         
+}
+}
+
+
+
+/* контент хэсэг нугалах */
+@media only screen and (max-width: 1024px) 
+{
+.flex-heading
+{     
+      font-size: 14px;       
+      margin-top: 50px;  
+      margin-left: 0px;    
+      padding-left: 125px;                     
+}      
+.content-section-flex 
+{
+      width: 100%;       
+      height: auto;
+      display: block;        
+      margin-top: 50px;        
+}      
+.content-section-flex 
+.flex-a,
+.content-section-flex 
+.flex-b,
+.content-section-flex 
+.flex-c
+{           
+      margin: 0;
+      width: 95%;          
+      height: auto;
+      padding-top: 20px;
+      padding-left: 20px;      
+
+      transition: 0.2s;      
+}
+.content-section-flex 
+.flex-heading
+{          
+      text-align: right;
+}
+.content-section-flex 
+.flex-head
+{     
+      font-size: 16px; 
+      margin: 0 0 10px 0;                 
+}
+.content-section-flex 
+.flex-span-a
+{     
+      font-size: 9px;   
+      letter-spacing: 2px;
+}
+.content-section-flex 
+.flex-span-b
+{            
+      font-size: 9px;      
+      letter-spacing: 2px;
+}
+.content-section-flex 
+.flex-span-c
+{            
+      font-size: 9px;     
+      letter-spacing: 2px;
+}
+.content-section-flex 
+.flex-paragraph
+{     
+      margin: 0px;            
+      font-size: 12px; 
+      margin-top: 20px;          
+      padding-left: 0px;           
+}
+}
+@media only screen and (device-width: 1366px) 
+{
+.flex-heading
+{ 
+      margin-left: 80px;              
+}      
+.content-section-flex 
+{
+      width: 100%;                
+      height: 700px;      
+}      
+.content-section-flex 
+.flex-a,
+.content-section-flex 
+.flex-b,
+.content-section-flex 
+.flex-c
+{      
+      margin: 40px;
+      height: 600px;     
+}
+}
+@media only screen and (device-width: 1440px) 
+{
+.flex-heading
+{ 
+      margin-left: 110px;              
+}         
+.content-section-flex 
+{
+      width: 100%;                
+      height: 700px;      
+}     
+.content-section-flex 
+.flex-a,
+.content-section-flex 
+.flex-b,
+.content-section-flex 
+.flex-c
+{      
+      margin: 40px;
+      height: 600px;     
+} 
+}
+
+
+
+/* контент хэсэг эргүүлэх */
+@media only screen and (max-width: 1024px) 
+{
+.wrapper-heading
+{        
+      margin-top: 50px;  
+      margin-left: 20px;                               
+}
+.content-section-wrapper
+{
+      width: 100%;
+      height: 700px; 
+      margin-top: 20px;
+}      
+}
+@media only screen and (device-width: 1366px) 
+{
+.wrapper-heading
+{ 
+      margin-left: 70px;            
+}
+}
+@media only screen and (device-width: 1440px) 
+{
+.wrapper-heading
+{ 
+      margin-left: 70px;            
+}
+}
+
+
+
+/* контент хэсэг хайрцаг */
+@media only screen and (max-width: 1024px) 
+{
+.content-section-box
+{      
+      width: 100%;
+      height: 400px;         
+      background-color: #fff;         
+}
+.content-section-box
+.box-heading
+{      
+      color: #bbb;
+      font-size: 12px;                                                     
+      font-weight: 700;
+}            
+.content-section-box
+.box-container
+{          
+      max-width: 100%;      
+      margin-left: 0px;  
+      padding-left: 0px;
+}     
+.box-card
+{
+      width: 150px;      
+}   
+.content-section-box
+.box-background
+{          
+      height: 200px;            
+}  
+.content-section-box
+.box-head
+{
+      color: #444;      
+      font-size: 11px;      
+      font-weight: 800;
+      text-transform: capitalize;
+}  
+}
+@media only screen and (min-width: 768px) 
+{
+.content-section-box
+{
+      width: 100%;
+      height: auto;    
+      padding-left: 15px;
+      padding-right: 15px;
+}
+.box-card
+{
+      width: 120px;
+}
+.content-section-box
+.box-heading
+{
+      font-size: 14px;
+}
+}

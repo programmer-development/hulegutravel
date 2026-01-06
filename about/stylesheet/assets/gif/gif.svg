@@ -1,0 +1,21 @@
+<!-- By Sam Herbert (@sherb), for everyone. More @ http://goo.gl/7AJzbL -->
+<svg width="300" height="364" viewBox="0 0 300 364" xmlns="http://www.w3.org/2000/svg" fill="#fff">
+    <circle style="fill: black;" cx="130" cy="182" r="8">
+        <animate attributeName="r" from="8" to="8"
+                 begin="0s" dur="1s"
+                 values="8;1;8" calcMode="linear"
+                 repeatCount="indefinite" />
+    </circle>
+    <circle style="fill: black;" cx="150" cy="182" r="8">
+        <animate attributeName="r" from="8" to="8"
+                 begin="0.3s" dur="1s"
+                 values="8;1;8" calcMode="linear"
+                 repeatCount="indefinite" />
+    </circle>
+    <circle style="fill: black;" cx="170" cy="182" r="8">
+        <animate attributeName="r" from="8" to="8"
+                 begin="0.6s" dur="1s"
+                 values="8;1;8" calcMode="linear"
+                 repeatCount="indefinite" />
+    </circle>
+</svg>

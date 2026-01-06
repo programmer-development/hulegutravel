@@ -1,0 +1,49 @@
+.content-section-navigation
+{
+      width: 100%;
+      height: 70vh;          
+      background-size: cover;
+      background-repeat: no-repeat;       
+      background-image: url('assets/img/khovd.jpg');
+      box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.2);
+}  
+.content-section-card
+.section-card:nth-child(1):before 
+{         
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;      
+      background-image: url('assets/img/irves.jpg');
+}
+.content-section-card
+.section-card:nth-child(2):before 
+{      
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-image: url('assets/img/suusar.jpg');
+}
+.content-section-card
+.section-card:nth-child(3):before 
+{     
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-image: url('assets/img/khoton.png');
+}
+.content-section-card
+.section-card:nth-child(4):before 
+{     
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-image: url('assets/img/hoilog.jpg');
+}
+.content-section-card
+.section-card:nth-child(5):before 
+{     
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-image: url('assets/img/khulan.jpg');
+}

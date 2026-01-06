@@ -1,0 +1,404 @@
+@media only screen and (max-width: 1300px) 
+{
+.content-section-load
+{           
+      width: 100%;
+      height: 100vh;      
+}
+}
+
+
+
+@media only screen and (max-width: 1300px) 
+{
+.content-section-circle
+{
+      margin-top: 60px;
+}      
+}
+@media only screen and (device-width: 1366px) 
+{
+.content-section-circle
+{
+      margin-top: -110px;
+}
+}
+@media only screen and (device-width: 1440px) 
+{
+.content-section-circle
+{
+      margin-top: -40px;
+}
+}
+
+
+
+@media only screen and (max-width: 1300px) 
+{
+.content-section-box
+{      
+      width: 100%;         
+      padding-left: 0px; 
+}    
+.content-section-box
+.box-article
+.box-head
+{          
+      font-size: 22px;          
+}
+}
+@media only screen and (device-width: 1366px) 
+{
+.content-section-box
+{      
+      padding-left: 200px;                           
+}    
+}
+@media only screen and (device-width: 1440px) 
+{
+.content-section-box
+{      
+      padding-left: 100px;                           
+}    
+}  
+
+
+
+
+@media screen and (max-width: 1300px) 
+{
+.content-section-article
+{
+      margin-top: 10px;    
+}
+.content-section-article
+.article-heading
+.article-span
+{
+      margin: 0px;
+      font-size: 12px;     
+}
+.content-section-article
+.article-heading
+.article-head
+{
+      width: 100%;            
+      font-size: 20px;      
+      margin: 10px auto;     
+}    
+.content-section-column
+.column-a
+{
+      width: 100%;          
+      height: auto;      
+}
+.content-section-column
+.article-a
+{      
+      float: none;
+      margin: 10px;
+      padding-right: 0px;
+}
+.content-section-column
+.column-b
+{
+      width: 100%;        
+      height: auto;        
+      padding-left: 0px;   
+}
+.content-section-column
+.article-b
+{      
+      float: none;
+      margin: 10px;
+      padding-right: 0px;
+}
+.content-section-column
+.article-bold
+{
+      font-size: 14px;
+      line-height: 20px;      
+}
+}
+@media only screen and (device-width: 1366px) 
+{
+.content-section-article
+.article-heading
+.article-span
+{      
+      font-size: 10px;      
+}      
+.content-section-article
+.article-heading
+.article-head
+{
+      width: 20%;            
+      font-size: 30px;            
+}        
+}
+@media only screen and (device-width: 1440px) 
+{
+.content-section-article
+.article-heading
+.article-span
+{      
+      font-size: 10px;      
+}      
+.content-section-article
+.article-heading
+.article-head
+{
+      width: 20%;            
+      font-size: 30px;            
+}        
+}
+
+
+
+@media only screen and (max-width: 1300px) 
+{
+.content-section-pattern
+{
+      margin-top: 50px;
+}      
+.content-section-detail
+{
+      display: block;      
+}    
+.content-section-detail
+.section-detail-a
+{
+      width: 100%;
+      height: 100%;          
+      padding: 0px 0px;                         
+      padding-left: 0%;   
+      line-height: 20px;      
+      border-right:  none;      
+}
+.content-section-detail
+.section-detail-b
+{
+      width: 100%;
+      height: 100%;      
+      padding: 0px 0px;                         
+      line-height: 20px;
+      border-right:  none;
+}
+.content-section-detail
+.section-detail-a
+.detail-heading,
+.content-section-detail
+.section-detail-b
+.detail-heading
+{
+      font-size: 10px;                      
+      margin-left: 0px;      
+}
+.content-section-detail
+.detail-head
+{       
+      font-size: 12px;
+      margin-left: 0px;
+}
+.content-section-detail
+.detail-paragraph
+{      
+      font-size: 12px;  
+      margin-left: 0px;       
+}
+.content-section-detail
+.detail-horizontal
+{
+      display: 100%;
+}
+.content-section-detail
+i
+{
+      margin: 5px;
+      font-size: 10px;      
+}  
+}
+@media only screen and (device-width: 1366px) 
+{
+.content-section-detail
+.section-detail-a
+{     
+      height: 500px;       
+      padding-left: 28%;      
+}      
+.content-section-detail
+.section-detail-b
+{          
+      height: 500px;
+      padding-left: 7%;
+}
+}
+@media only screen and (device-width: 1440px) 
+{
+.content-section-detail
+.section-detail-a
+{     
+      height: 500px;       
+      padding-left: 29%;      
+}      
+.content-section-detail
+.section-detail-b
+{          
+      height: 500px;
+      padding-left: 7%;
+}
+}
+
+
+
+@media only screen and (max-width: 1300px) 
+{
+.content-section-card  
+{
+      width: 100%;
+      height: auto;
+      display: grid;
+      margin-top: 80px;
+}    
+.content-section-card    
+.section-card
+{
+      width: 100%;
+      height: 400px;
+      margin-top: 0px;
+}
+.section-card:after 
+{    
+      width: 100%;      
+      transition: none;
+      background-image: none;
+      transform: translateY(0%);      
+}
+}
+@media only screen and (min-width: 600px) 
+{
+.content-section-card
+{
+      grid-template-columns: repeat(2, 1fr);
+}
+}
+@media only screen and (min-width: 400px) 
+{
+.content-section-card
+{
+      grid-template-columns: repeat(6, 1fr);
+}
+} 
+@media only screen and (min-width: 600px) 
+{
+.content-section-card    
+.section-card
+{
+      width: 280px;
+      height: 350px;
+}
+}
+@media only screen and (hover: hover) and (min-width: 600px) 
+{
+.section-card:after 
+{
+      transform: translateY(0);
+}
+.card-box
+{
+      transform: translateY(calc(100% - 4.5rem));
+}
+.card-box > *:not(.title) 
+{
+      opacity: 0;
+      transform: translateY(1rem);
+      transition: transform var(--d) var(--e), opacity var(--d) var(--e);
+}
+.section-card:hover,
+.section-card:focus-within 
+{
+      align-items: center;
+}
+.section-card:hover:before,
+.section-card:focus-within:before 
+{
+      transform: translateY(-4%);
+}
+.section-card:hover:after,
+.section-card:focus-within:after 
+{
+      transform: translateY(-50%);
+}
+.section-card:hover .card-box,
+.section-card:focus-within .card-box 
+{
+      transform: translateY(0);
+}
+.section-card:hover .card-box > *:not(.title),
+.section-card:focus-within .card-box > *:not(.title) 
+{
+      opacity: 1;
+      transform: translateY(0);
+      transition-delay: calc(var(--d) / 8);
+}
+.section-card:focus-within:before, .section-card:focus-within:after,
+.section-card:focus-within .card-box,
+.section-card:focus-within .card-box > *:not(.title) 
+{
+      transition-duration: 0s;
+}
+}
+@media only screen and (device-width: 1440px) 
+{
+.section-card
+{ 
+      padding: 3rem;                
+}      
+.section-card:after 
+{
+      transform: translateY(0);
+}
+.card-box
+{
+      transform: translateY(calc(100% - 4.5rem));
+}
+.card-box > *:not(.title) 
+{
+      opacity: 0;
+      transform: translateY(1rem);
+      transition: transform var(--d) var(--e), opacity var(--d) var(--e);
+}
+.section-card:hover,
+.section-card:focus-within 
+{
+      align-items: center;
+}
+.section-card:hover:before,
+.section-card:focus-within:before 
+{
+      transform: translateY(-4%);
+}
+.section-card:hover:after,
+.section-card:focus-within:after 
+{
+      transform: translateY(-50%);
+}
+.section-card:hover .card-box,
+.section-card:focus-within .card-box 
+{
+      transform: translateY(0);
+}
+.section-card:hover .card-box > *:not(.title),
+.section-card:focus-within .card-box > *:not(.title) 
+{
+      opacity: 1;
+      transform: translateY(0);
+      transition-delay: calc(var(--d) / 8);
+}
+.section-card:focus-within:before, .section-card:focus-within:after,
+.section-card:focus-within .card-box,
+.section-card:focus-within .card-box > *:not(.title) 
+{
+      transition-duration: 0s;
+}    
+}

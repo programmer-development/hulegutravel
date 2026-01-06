@@ -1,0 +1,25 @@
+.content-section-navigation
+{
+      width: 100%;
+      height: 70vh;            
+      background-size: cover;
+      background-repeat: no-repeat;       
+      background-image: url('assets/img/sumber.jpg');
+      box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.2);
+}  
+.content-section-card
+.section-card:nth-child(1):before 
+{         
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;      
+      background-image: url('assets/img/burged.jpg');
+}
+.content-section-card
+.section-card:nth-child(2):before 
+{      
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-image: url('assets/img/shonhor.jpg');
+}

@@ -1,0 +1,467 @@
+@media only screen and (max-width: 1300px) 
+{
+.content-section-parallel
+{
+      width: 100%;            
+}    
+.content-section-parallel
+.section-parallel
+{          
+      width: 100%;
+      padding: 0%;
+      height: 100%; 
+      max-width: 0em;
+}
+.section-parallel :nth-child(1) 
+{      
+      top: 20px;
+      left: 0px;
+      right: 30px;
+      transform: translateZ(-0.4px) scale(1.4);            
+}
+.section-parallel :nth-child(2) 
+{      
+      z-index: 200;
+      top: 100px;
+      right: 100px;
+      transform: translateZ(0.2px) scale(0.8);
+}
+.section-parallel :nth-child(3) 
+{      
+      z-index: 300;
+      top: 400px;
+      left: 0px;
+      transform: translateZ(0.3px) scale(0.7);
+}
+.section-parallel :nth-child(4) 
+{      
+      z-index: 100;
+      top: 400px;
+      left: 20px;      
+      transform: translateZ(0.1px) scale(0.9);
+}
+.section-parallel :nth-child(5) 
+{      
+      z-index: -2000;
+      top: 1000px;
+      right: 10px;
+      transform: translateZ(-2px) scale(3);
+}
+.section-parallel :nth-child(6) 
+{      
+      z-index: 400;
+      top: 600px;
+      left: 100px;
+      transform: translateZ(0.4px) scale(0.6);
+}
+.section-parallel :nth-child(7) 
+{      
+      z-index: -1000;
+      top: 400px;
+      left: 100px;
+      transform: translateZ(-1px) scale(2);
+}
+.section-parallel :nth-child(8) 
+{
+      z-index: -400;      
+      top: 100px;
+      left: 100px;
+      transform: translateZ(-0.4px) scale(1.4);
+}
+.parallel-head
+{          
+      font-size: 20px;     
+}
+.parallel-paragraph-a
+{
+      width: 100%;      
+      font-size: 14px;            
+}
+.parallel-paragraph-b
+{
+      width: 100%;    
+      font-size: 14px;                
+}
+}
+@media only screen and (device-width: 1366px)
+{
+.content-section-parallel
+{
+      width: 100%;
+      height: 80vh;     
+}    
+.content-section-parallel
+.container 
+{          
+      max-width: 80em;
+}
+}
+@media only screen and (device-width: 1440px)
+{
+.content-section-parallel
+{
+      width: 100%;
+      height: 70vh;     
+}    
+.content-section-parallel
+.container 
+{          
+      max-width: 90em;
+}
+}
+
+
+
+@media only screen and (max-width: 1300px) 
+{
+.article-span
+{
+      margin: 10px;
+      font-size: 10px;
+      text-transform: uppercase;
+}
+.article-heading
+.article-head
+{
+      width: 100%;          
+      font-size: 22px;      
+      margin: 10px auto;      
+}
+}
+
+
+
+
+@media only screen and (max-width: 1300px) 
+{
+.content-section-paragraph    
+.paragraph-a 
+{
+      width: 100%;
+      height: auto;
+}
+.content-section-paragraph
+.paragraph-b
+{
+      width: 100%;
+      height: auto;
+}
+.content-section-paragraph    
+.paragraph-c
+{
+      width: 100%;
+      height: auto;
+}
+.content-section-paragraph
+.paragraph-d
+{
+      width: 100%;
+      height: auto;
+}
+.content-section-paragraph
+.paragraph-e 
+{      
+      width: 100%;
+      height: auto;
+}
+.content-section-paragraph
+.paragraph-f
+{      
+      width: 100%;
+      height: auto;
+}
+.content-section-paragraph
+.pargragh-head
+{                
+      float: none;                
+      margin: 10px;
+      font-size: 12px;        
+}
+.content-section-paragraph
+.paragraph-list
+li
+{      
+      width: 100%;      
+      padding-right: 0px;      
+}
+.content-section-paragraph
+.paragraph-img
+{
+      width: 90%;      
+      height: auto;      
+      margin-left: 20px;      
+      border-radius: 5px;       
+}
+}
+@media only screen and (device-width: 1366px)
+{
+.content-section-paragraph
+.paragraph-a 
+{      
+      width: 65%;      
+      height: 900px;      
+}
+.content-section-paragraph
+.paragraph-b
+{      
+      width: 35%;      
+      height: 800px;    
+}
+.content-section-paragraph
+.paragraph-c 
+{      
+      width: 65%;
+      float: left;      
+      height: 900px;      
+}
+.content-section-paragraph
+.paragraph-d
+{      
+      width: 35%;
+      float: left;      
+      height: 800px;    
+}
+.content-section-paragraph
+.paragraph-e 
+{      
+      width: 65%;
+      float: left;      
+      height: auto;      
+}
+.content-section-paragraph
+.paragraph-f
+{      
+      width: 35%;
+      float: left;      
+      height: 800px;    
+}
+.content-section-paragraph
+.paragraph-list
+li
+{      
+      width: 60%;                 
+}
+}
+@media only screen and (device-width: 1366px)
+{
+.content-section-paragraph
+.paragraph-a 
+{      
+      width: 65%;      
+      height: 900px;      
+}
+.content-section-paragraph
+.paragraph-b
+{      
+      width: 35%;      
+      height: 800px;    
+}
+.content-section-paragraph
+.paragraph-c 
+{      
+      width: 65%;
+      float: left;      
+      height: 900px;      
+}
+.content-section-paragraph
+.paragraph-d
+{      
+      width: 35%;
+      float: left;      
+      height: 800px;    
+}
+.content-section-paragraph
+.paragraph-e 
+{      
+      width: 65%;
+      float: left;      
+      height: auto;      
+}
+.content-section-paragraph
+.paragraph-f
+{      
+      width: 35%;
+      float: left;      
+      height: 800px;    
+}
+.content-section-paragraph
+.paragraph-list
+li
+{      
+      width: 60%;                 
+}
+}
+@media only screen and (device-width: 1440px)
+{
+.content-section-paragraph
+.paragraph-a 
+{      
+      width: 65%;      
+      height: 900px;      
+}
+.content-section-paragraph
+.paragraph-b
+{      
+      width: 35%;      
+      height: 800px;    
+}
+.content-section-paragraph
+.paragraph-c 
+{      
+      width: 65%;
+      float: left;      
+      height: 900px;      
+}
+.content-section-paragraph
+.paragraph-d
+{      
+      width: 35%;
+      float: left;      
+      height: 800px;    
+}
+.content-section-paragraph
+.paragraph-e 
+{      
+      width: 65%;
+      float: left;      
+      height: auto;      
+}
+.content-section-paragraph
+.paragraph-f
+{      
+      width: 35%;
+      float: left;      
+      height: 800px;    
+}
+.content-section-paragraph
+.paragraph-list
+li
+{      
+      width: 60%;                 
+}
+}
+
+
+
+
+@media only screen and (max-width: 1300px) 
+{
+.content-section-span
+.span-heading
+{      
+      font-size: 8px;
+      color: #468153;
+      font-weight: bold;                 
+      margin-left: 30px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+}      
+.content-section-span
+{
+      width: 100%; 
+      margin-top: 50px;
+}      
+.content-section-span
+.span-list
+li
+{           
+      padding-top: 0px;      
+      padding-right: 25px;      
+}
+.content-section-span
+.span-a,
+.content-section-span
+.span-b,
+.content-section-span
+.span-c,
+.content-section-span
+.span-d
+{      
+      width: 100%; 
+      height: auto;     
+      max-width: 100%;            
+}      
+.content-section-span
+.span-e
+{
+      width: 100%; 
+      height: auto;     
+      max-width: 90%;            
+}
+}
+@media only screen and (device-width: 1366px)
+{
+.content-section-span
+.span-a
+{      
+      width: 100%; 
+      height: 400px;
+      margin: 0 auto;
+      max-width: 50%;            
+}
+.content-section-span
+.span-b
+{      
+      width: 100%; 
+      height: 300px;
+      margin: 0 auto;
+      max-width: 50%;            
+}      
+.content-section-span
+.span-c
+{          
+      height: 300px;      
+      max-width: 50%;            
+}
+.content-section-span
+.span-d
+{           
+      height: 600px;      
+      max-width: 50%;          
+}
+.content-section-span
+.span-e
+{            
+      height: 400px;      
+      max-width: 50%;      
+      margin-top: 10px;    
+}     
+}
+@media only screen and (device-width: 1440px)
+{
+.content-section-span
+.span-a
+{      
+      width: 100%; 
+      height: 400px;
+      margin: 0 auto;
+      max-width: 50%;            
+}
+.content-section-span
+.span-b
+{      
+      width: 100%; 
+      height: 300px;
+      margin: 0 auto;
+      max-width: 50%;            
+}      
+.content-section-span
+.span-c
+{          
+      height: 300px;      
+      max-width: 50%;            
+}
+.content-section-span
+.span-d
+{           
+      height: 600px;      
+      max-width: 50%;          
+}
+.content-section-span
+.span-e
+{            
+      height: 400px;      
+      max-width: 50%;      
+      margin-top: 10px;    
+}      
+}
